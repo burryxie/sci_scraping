@@ -17,4 +17,4 @@ extracting all papers details *(title,authors, abstract, publication year,corres
 * code for the second step is verified ok
 
 **Todo**
-* For query results with multiple pages, how to get the url links for page 2, 3, ...
+* For query results with multiple pages, **how to get the url links for page 2, 3, ...**
