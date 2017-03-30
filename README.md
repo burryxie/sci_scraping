@@ -7,7 +7,7 @@ In process...
 
 **Target**: 
 
-    extracting all papers details *(title,authors, abstract, publication year,corresponding author and corresponding address)*, given journal names and a certain year period *(that is journal name, start year and end year)*
+extracting all papers details *(title,authors, abstract, publication year,corresponding author and corresponding address)*, given journal names and a certain year period *(that is journal name, start year and end year)*
 
 **Workflow**:
 * First step: Collecting the link url of every paper, given a specific query/key words(*that is journal name, start year and end year*)
