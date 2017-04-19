@@ -3,9 +3,6 @@ trying to scraping data from [web of science](http://login.webofknowledge.com/er
 
 *Warning: access to the database is required*
 
-In process...
-
-
 **Target**: 
 
 extracting all papers details *(title,authors, abstract, publication year,corresponding author and corresponding address)*, given journal names and a certain year period *(that is journal name, start year and end year)*
@@ -15,7 +12,7 @@ extracting all papers details *(title,authors, abstract, publication year,corres
 * Second step: Collecting the detailed data of each paper via looping through all the link urls derived in the first step
 
 **Status**
-* code for the second step is verified ok
+* Finished
 
 **Todo**
-* For query results with multiple pages, **how to get the url links for page 2, 3, ...**
+* No
